@@ -18,7 +18,7 @@ $('p').editable('/edit', {
 });
 ```
 
-Upon clicking on the <p>, it's content will be replaced by a farbtastic colorpicker.
+Upon clicking on the `<p>`, it's content will be replaced by a farbtastic colorpicker.
 
 Datatables Integration
 ======================
