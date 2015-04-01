@@ -23,7 +23,7 @@ Upon clicking on the <p>, it's content will be replaced by a farbtastic colorpic
 Datatables Integration
 ======================
 
-If you use jeditable editor for DataTables you can add the power of farbtastic in a simple ammern:
+If you use jeditable editor for DataTables you can add the power of farbtastic in a simple manner:
 
 ```javascript
 $("#table").dataTable({}).makeEditable({
